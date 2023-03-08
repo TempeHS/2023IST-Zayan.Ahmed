@@ -1,3 +1,11 @@
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
+</style>
+
+BODY { 
+font-family: 'Tilt Neon', cursive;
+
+
 
 DIV {
 	border: 1px solid #000000;
@@ -31,7 +39,7 @@ DIV {
 	border: 1px solid green;
 }
 
-	#FooterRight {
+#FooterRight {
 		float:right;
 		width:399px; /*49.5%*/
 		height:50px;
